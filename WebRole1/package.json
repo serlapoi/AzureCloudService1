@@ -1,0 +1,9 @@
+{
+  "name": "web-role1",
+  "version": "0.0.0",
+  "description": "WebRole1",
+  "main": "server.js",
+  "author": {
+    "name": "serlapoi"
+  }
+}
