@@ -5,5 +5,20 @@
   "main": "server.js",
   "author": {
     "name": "serlapoi"
+  },
+  "dependencies": {
+    "boom": "^4.2.0",
+    "hapi": "^16.0.1",
+    "joi": "^10.0.5",
+    "mssql": "^3.3.0",
+    "tedious": "^1.14.0"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0",
+    "minimist": "^1.2.0"
   }
 }
